@@ -3,6 +3,7 @@
 Passionate Data Enthusiast and Power BI Developer
 
 🔭 I’m currently working on Data Analysis and Deep Learning Projects
+
   **Key Skills**
 - Data Visualization: Power BI
 - Data Analysis: SQL, Excel
