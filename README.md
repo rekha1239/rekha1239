@@ -1,6 +1,6 @@
 ### Hi there, I'm Rekha Sharma ###
 
-  I'm dedicated data professional and Power BI enthusiast.
+Data enthusias|| Eager to learn 
 
 🔭 I’m currently working on Data Analysis and visualization
 
@@ -12,6 +12,10 @@
 - ETL Processes: Power Query
 
 🌟 Projects Highlights
+
+https://github.com/rekha1239/Sales-Retail-Analysis-Power-Bi-Project
+https://github.com/rekha1239/AdventureWorks-Database-Analysis-Power-Bi-Project
+https://github.com/rekha1239/NashvilleHousing-Data-DataCleaning-in-sqlQueries
 
 Feel free to explore my repositories to see these projects and more in action!
 
