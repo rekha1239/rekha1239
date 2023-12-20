@@ -1,8 +1,8 @@
 ### Hi there, I'm Rekha Sharma ###
 
-Passionate Data Enthusiast and Power BI Developer
+  I'm dedicated data professional and Power BI enthusiast.
 
-🔭 I’m currently working on Data Analysis and Deep Learning Projects
+🔭 I’m currently working on Data Analysis and visualization
 
  🚀 Key Skills
 - Data Visualization: Power BI
