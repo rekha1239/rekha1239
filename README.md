@@ -2,13 +2,14 @@
 
 Passionate Data Enthusiast and Power BI Developer
 
+🔭 I’m currently working on Data Analysis and Deep Learning Projects
 🚀 Key Skills
 
-Data Visualization: Power BI
-Data Analysis: SQL, Excel
-Programming Languages: Python
-Database Management: Microsoft SQL Server
-ETL Processes: Power Query
+- Data Visualization: Power BI
+- Data Analysis: SQL, Excel
+- Programming Languages: Python
+- Database Management: Microsoft SQL Server
+- ETL Processes: Power Query
 
 🌟 Projects Highlights
 
