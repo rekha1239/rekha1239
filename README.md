@@ -1,6 +1,6 @@
 ### Hi there, I'm Rekha Sharma ###
 
-Data enthusias|| Eager to learn 
+Data enthusiast | Eager to learn 
 
 🔭 I’m currently working on Data Analysis and visualization
 
