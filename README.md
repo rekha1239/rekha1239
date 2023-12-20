@@ -12,7 +12,7 @@ Here's a quick look at what I'm currently working on:
 - 🤔 I’m looking for help with ... Open to tips, advice, and collaborative opportunities to further enhance my skills in the dynamic field of data.
 - 💬 Ask me about... projects related to data analytics, visualization, and Power BI. 
 - 📫 How to reach me: ...Rekha1239@gmail.com
-- 😄 Pronouns: ...MRS
+- 😄 Pronouns: ..
 - ⚡ Fun fact: ... I've been on a rewarding journey for the past 15 years, dedicating my time to raising two amazing kids.I'm bringing that same dedication and adaptability to 
                    the exciting world of data analysis and Power BI development! 🌟
 -->
