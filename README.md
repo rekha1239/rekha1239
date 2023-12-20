@@ -13,9 +13,9 @@ Data enthusias|| Eager to learn
 
 🌟 Projects Highlights
 
-https://github.com/rekha1239/Sales-Retail-Analysis-Power-Bi-Project
-https://github.com/rekha1239/AdventureWorks-Database-Analysis-Power-Bi-Project
-https://github.com/rekha1239/NashvilleHousing-Data-DataCleaning-in-sqlQueries
+ - https://github.com/rekha1239/Sales-Retail-Analysis-Power-Bi-Project
+- https://github.com/rekha1239/AdventureWorks-Database-Analysis-Power-Bi-Project
+- https://github.com/rekha1239/NashvilleHousing-Data-DataCleaning-in-sqlQueries
 
 Feel free to explore my repositories to see these projects and more in action!
 
